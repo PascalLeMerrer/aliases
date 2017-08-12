@@ -24,6 +24,9 @@ funcsave gd
 alias go "git checkout"
 funcsave go
 
+alias gp "git push "
+funcsave gp
+
 alias gk "gitk --all"
 funcsave gk
 
