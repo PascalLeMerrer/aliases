@@ -15,7 +15,7 @@ funcsave ga
 alias gb "git branch "
 funcsave gb
 
-alias gc "git commit"
+alias gc "git commit -m"
 funcsave gc
 
 alias gd "git diff"
