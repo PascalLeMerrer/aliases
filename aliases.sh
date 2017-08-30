@@ -21,8 +21,8 @@ funcsave gc
 alias gd "git diff"
 funcsave gd
 
-alias go "git checkout"
-funcsave go
+alias gco "git checkout"
+funcsave gco
 
 alias gp "git push "
 funcsave gp
