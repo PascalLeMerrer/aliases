@@ -6,7 +6,7 @@ funcsave rm
 alias g "git"
 funcsave g
 
-alias gs "git status -b"
+alias gs "git status -sb"
 funcsave gs
 
 alias ga "git add "
