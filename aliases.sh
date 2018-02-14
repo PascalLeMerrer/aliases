@@ -33,3 +33,5 @@ funcsave gk
 alias gst "git stash"
 funcsave gst
 
+alias d "docker container"
+funcsave d
