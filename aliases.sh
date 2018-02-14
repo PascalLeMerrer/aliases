@@ -30,3 +30,6 @@ funcsave gp
 alias gk "gitk --all"
 funcsave gk
 
+alias gst "git stash"
+funcsave gst
+
