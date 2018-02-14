@@ -35,3 +35,6 @@ funcsave gst
 
 alias d "docker container"
 funcsave d
+
+alias dco "docker-compose"
+funcsave dco
