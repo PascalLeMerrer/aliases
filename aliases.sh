@@ -24,17 +24,20 @@ funcsave gd
 alias gco "git checkout"
 funcsave gco
 
-alias gp "git push "
-funcsave gp
-
-alias gk "gitk --all"
-funcsave gk
+alias gf "git fetch -p"
+funcsave gf
 
 alias gst "git stash"
 funcsave gst
 
-alias d "docker container"
-funcsave d
+alias push "git push origin"
+funcsave push
+
+alias pull "git pull origin"
+funcsave pull
+
+alias doc "docker container"
+funcsave doc
 
 alias dco "docker-compose"
 funcsave dco
